@@ -1,0 +1,17 @@
+
+INVOICE
+
+Vendor: Dawson Equipment Supplies
+Invoice Number: INV-2026-1042
+Date: 2026-10-15
+
+Item: Hydraulic Pump
+Equipment ID: EXC-204
+
+Subtotal: 1200.00
+Tax: 60.00
+Total: 1260.00
+Currency: CAD
+
+Description: Replacement hydraulic pump for excavator maintenance.
+s
